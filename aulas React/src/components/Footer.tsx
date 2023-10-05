@@ -12,7 +12,7 @@ function Footer(){
   }
   return(
     <div> 
-    <h1>Primeiro teste</h1>
+    <h1>segundo teste</h1>
     <button onClick={ handleClick} type="button">Voltar</button>
     </div>
   )

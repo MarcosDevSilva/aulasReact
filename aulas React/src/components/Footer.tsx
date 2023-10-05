@@ -12,7 +12,7 @@ function Footer(){
   }
   return(
     <div> 
-    <h1>Footer01</h1>
+    <h1>Footer002</h1>
     <button onClick={ handleClick} type="button">Voltar</button>
     </div>
   )
